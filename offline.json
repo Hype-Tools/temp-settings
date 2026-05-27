@@ -1,7 +1,7 @@
 {
 	"arizona_pc": {
-		"status": true,
-		"info": "Технические работы"
+		"status": false,
+		"info": "-"
 	},
 	"rodina_pc": {
 		"status": false,
