@@ -1,6 +1,6 @@
 {
 	"arizona_pc": {
-		"status": true,
+		"status": false,
 		"info": "Технические Проблемы на стороне API"
 	},
 	"arizona_mobile": {
